@@ -1,0 +1,22 @@
+# virtual environment
+.venv/
+venv/
+env/
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# jupyter notebook 
+.ipynb_checkpoints/
+
+# not used and too large
+TMDB_movie_dataset_v11.csv
+
+# environment variables (bot token)
+.env
+
+# git
+.git/
+.gitignore

@@ -1,0 +1,12 @@
+# environment
+/.venv
+
+# pythoon cache
+/__pycache__
+__pycache__/
+
+# jupyter  
+.ipynb_checkpoints/
+
+# too large 
+TMDB_movie_dataset_v11.csv 
